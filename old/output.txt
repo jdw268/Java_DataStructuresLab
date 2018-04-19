@@ -1,0 +1,598 @@
+Body -> Count: 0 Id: 210111 Type: Body Cost: $11000.00 Attribute: ThatAutoSuperDuperSedanB
+Body -> Count: 1 Id: 210111 Type: Body Cost: $11000.00 Attribute: ThatAutoSuperDuperSedanB
+Body -> Count: 2 Id: 210111 Type: Body Cost: $11000.00 Attribute: ThatAutoSuperDuperSedanB
+Body -> Count: 3 Id: 210111 Type: Body Cost: $11000.00 Attribute: ThatAutoSuperDuperSedanB
+Body -> Count: 4 Id: 210111 Type: Body Cost: $11000.00 Attribute: ThatAutoSuperDuperSedanB
+Body -> Count: 5 Id: 210111 Type: Body Cost: $11000.00 Attribute: ThatAutoSuperDuperSedanB
+Body -> Count: 6 Id: 210111 Type: Body Cost: $11000.00 Attribute: ThatAutoSuperDuperSedanB
+Body -> Count: 7 Id: 210111 Type: Body Cost: $11000.00 Attribute: ThatAutoSuperDuperSedanB
+Body -> Count: 8 Id: 210111 Type: Body Cost: $11000.00 Attribute: ThatAutoSuperDuperSedanB
+Body -> Count: 9 Id: 210111 Type: Body Cost: $11000.00 Attribute: ThatAutoSuperDuperSedanB
+Body -> Count: 0 Id: 210211 Type: Body Cost: $15000.00 Attribute: ThatAutoSuperDuperSedanS
+Body -> Count: 1 Id: 210211 Type: Body Cost: $15000.00 Attribute: ThatAutoSuperDuperSedanS
+Body -> Count: 2 Id: 210211 Type: Body Cost: $15000.00 Attribute: ThatAutoSuperDuperSedanS
+Body -> Count: 3 Id: 210211 Type: Body Cost: $15000.00 Attribute: ThatAutoSuperDuperSedanS
+Body -> Count: 4 Id: 210211 Type: Body Cost: $15000.00 Attribute: ThatAutoSuperDuperSedanS
+Body -> Count: 5 Id: 210211 Type: Body Cost: $15000.00 Attribute: ThatAutoSuperDuperSedanS
+Body -> Count: 6 Id: 210211 Type: Body Cost: $15000.00 Attribute: ThatAutoSuperDuperSedanS
+Body -> Count: 7 Id: 210211 Type: Body Cost: $15000.00 Attribute: ThatAutoSuperDuperSedanS
+Body -> Count: 8 Id: 210211 Type: Body Cost: $15000.00 Attribute: ThatAutoSuperDuperSedanS
+Body -> Count: 9 Id: 210211 Type: Body Cost: $15000.00 Attribute: ThatAutoSuperDuperSedanS
+Body -> Count: 0 Id: 210311 Type: Body Cost: $18000.00 Attribute: ThatAutoSuperDuperSedanL
+Body -> Count: 1 Id: 210311 Type: Body Cost: $18000.00 Attribute: ThatAutoSuperDuperSedanL
+Body -> Count: 2 Id: 210311 Type: Body Cost: $18000.00 Attribute: ThatAutoSuperDuperSedanL
+Body -> Count: 3 Id: 210311 Type: Body Cost: $18000.00 Attribute: ThatAutoSuperDuperSedanL
+Body -> Count: 4 Id: 210311 Type: Body Cost: $18000.00 Attribute: ThatAutoSuperDuperSedanL
+Body -> Count: 5 Id: 210311 Type: Body Cost: $18000.00 Attribute: ThatAutoSuperDuperSedanL
+Body -> Count: 6 Id: 210311 Type: Body Cost: $18000.00 Attribute: ThatAutoSuperDuperSedanL
+Body -> Count: 7 Id: 210311 Type: Body Cost: $18000.00 Attribute: ThatAutoSuperDuperSedanL
+Body -> Count: 8 Id: 210311 Type: Body Cost: $18000.00 Attribute: ThatAutoSuperDuperSedanL
+Body -> Count: 9 Id: 210311 Type: Body Cost: $18000.00 Attribute: ThatAutoSuperDuperSedanL
+Body -> Count: 0 Id: 210411 Type: Body Cost: $20000.00 Attribute: ThatAutoSuperDuperSedanLX
+Body -> Count: 1 Id: 210411 Type: Body Cost: $20000.00 Attribute: ThatAutoSuperDuperSedanLX
+Body -> Count: 2 Id: 210411 Type: Body Cost: $20000.00 Attribute: ThatAutoSuperDuperSedanLX
+Body -> Count: 3 Id: 210411 Type: Body Cost: $20000.00 Attribute: ThatAutoSuperDuperSedanLX
+Body -> Count: 4 Id: 210411 Type: Body Cost: $20000.00 Attribute: ThatAutoSuperDuperSedanLX
+Body -> Count: 5 Id: 210411 Type: Body Cost: $20000.00 Attribute: ThatAutoSuperDuperSedanLX
+Body -> Count: 6 Id: 210411 Type: Body Cost: $20000.00 Attribute: ThatAutoSuperDuperSedanLX
+Body -> Count: 7 Id: 210411 Type: Body Cost: $20000.00 Attribute: ThatAutoSuperDuperSedanLX
+Body -> Count: 8 Id: 210411 Type: Body Cost: $20000.00 Attribute: ThatAutoSuperDuperSedanLX
+Body -> Count: 9 Id: 210411 Type: Body Cost: $20000.00 Attribute: ThatAutoSuperDuperSedanLX
+Body -> Count: 0 Id: 210511 Type: Body Cost: $21000.00 Attribute: ThatAutoSuperDuperSedanP
+Body -> Count: 1 Id: 210511 Type: Body Cost: $21000.00 Attribute: ThatAutoSuperDuperSedanP
+Body -> Count: 2 Id: 210511 Type: Body Cost: $21000.00 Attribute: ThatAutoSuperDuperSedanP
+Body -> Count: 3 Id: 210511 Type: Body Cost: $21000.00 Attribute: ThatAutoSuperDuperSedanP
+Body -> Count: 4 Id: 210511 Type: Body Cost: $21000.00 Attribute: ThatAutoSuperDuperSedanP
+Body -> Count: 5 Id: 210511 Type: Body Cost: $21000.00 Attribute: ThatAutoSuperDuperSedanP
+Body -> Count: 6 Id: 210511 Type: Body Cost: $21000.00 Attribute: ThatAutoSuperDuperSedanP
+Body -> Count: 7 Id: 210511 Type: Body Cost: $21000.00 Attribute: ThatAutoSuperDuperSedanP
+Body -> Count: 8 Id: 210511 Type: Body Cost: $21000.00 Attribute: ThatAutoSuperDuperSedanP
+Body -> Count: 9 Id: 210511 Type: Body Cost: $21000.00 Attribute: ThatAutoSuperDuperSedanP
+Body -> Count: 0 Id: 220111 Type: Body Cost: $20000.00 Attribute: ThatAutoSuperDuperCoupeB
+Body -> Count: 1 Id: 220111 Type: Body Cost: $20000.00 Attribute: ThatAutoSuperDuperCoupeB
+Body -> Count: 2 Id: 220111 Type: Body Cost: $20000.00 Attribute: ThatAutoSuperDuperCoupeB
+Body -> Count: 3 Id: 220111 Type: Body Cost: $20000.00 Attribute: ThatAutoSuperDuperCoupeB
+Body -> Count: 4 Id: 220111 Type: Body Cost: $20000.00 Attribute: ThatAutoSuperDuperCoupeB
+Body -> Count: 5 Id: 220111 Type: Body Cost: $20000.00 Attribute: ThatAutoSuperDuperCoupeB
+Body -> Count: 6 Id: 220111 Type: Body Cost: $20000.00 Attribute: ThatAutoSuperDuperCoupeB
+Body -> Count: 7 Id: 220111 Type: Body Cost: $20000.00 Attribute: ThatAutoSuperDuperCoupeB
+Body -> Count: 8 Id: 220111 Type: Body Cost: $20000.00 Attribute: ThatAutoSuperDuperCoupeB
+Body -> Count: 9 Id: 220111 Type: Body Cost: $20000.00 Attribute: ThatAutoSuperDuperCoupeB
+Body -> Count: 0 Id: 220211 Type: Body Cost: $25000.00 Attribute: ThatAutoSuperDuperCoupeS
+Body -> Count: 1 Id: 220211 Type: Body Cost: $25000.00 Attribute: ThatAutoSuperDuperCoupeS
+Body -> Count: 2 Id: 220211 Type: Body Cost: $25000.00 Attribute: ThatAutoSuperDuperCoupeS
+Body -> Count: 3 Id: 220211 Type: Body Cost: $25000.00 Attribute: ThatAutoSuperDuperCoupeS
+Body -> Count: 4 Id: 220211 Type: Body Cost: $25000.00 Attribute: ThatAutoSuperDuperCoupeS
+Body -> Count: 5 Id: 220211 Type: Body Cost: $25000.00 Attribute: ThatAutoSuperDuperCoupeS
+Body -> Count: 6 Id: 220211 Type: Body Cost: $25000.00 Attribute: ThatAutoSuperDuperCoupeS
+Body -> Count: 7 Id: 220211 Type: Body Cost: $25000.00 Attribute: ThatAutoSuperDuperCoupeS
+Body -> Count: 8 Id: 220211 Type: Body Cost: $25000.00 Attribute: ThatAutoSuperDuperCoupeS
+Body -> Count: 9 Id: 220211 Type: Body Cost: $25000.00 Attribute: ThatAutoSuperDuperCoupeS
+Body -> Count: 0 Id: 220311 Type: Body Cost: $28000.00 Attribute: ThatAutoSuperDuperCoupeSS
+Body -> Count: 1 Id: 220311 Type: Body Cost: $28000.00 Attribute: ThatAutoSuperDuperCoupeSS
+Body -> Count: 2 Id: 220311 Type: Body Cost: $28000.00 Attribute: ThatAutoSuperDuperCoupeSS
+Body -> Count: 3 Id: 220311 Type: Body Cost: $28000.00 Attribute: ThatAutoSuperDuperCoupeSS
+Body -> Count: 4 Id: 220311 Type: Body Cost: $28000.00 Attribute: ThatAutoSuperDuperCoupeSS
+Body -> Count: 5 Id: 220311 Type: Body Cost: $28000.00 Attribute: ThatAutoSuperDuperCoupeSS
+Body -> Count: 6 Id: 220311 Type: Body Cost: $28000.00 Attribute: ThatAutoSuperDuperCoupeSS
+Body -> Count: 7 Id: 220311 Type: Body Cost: $28000.00 Attribute: ThatAutoSuperDuperCoupeSS
+Body -> Count: 8 Id: 220311 Type: Body Cost: $28000.00 Attribute: ThatAutoSuperDuperCoupeSS
+Body -> Count: 9 Id: 220311 Type: Body Cost: $28000.00 Attribute: ThatAutoSuperDuperCoupeSS
+Body -> Count: 0 Id: 220411 Type: Body Cost: $30000.00 Attribute: ThatAutoSuperDuperCoupeSSL
+Body -> Count: 1 Id: 220411 Type: Body Cost: $30000.00 Attribute: ThatAutoSuperDuperCoupeSSL
+Body -> Count: 2 Id: 220411 Type: Body Cost: $30000.00 Attribute: ThatAutoSuperDuperCoupeSSL
+Body -> Count: 3 Id: 220411 Type: Body Cost: $30000.00 Attribute: ThatAutoSuperDuperCoupeSSL
+Body -> Count: 4 Id: 220411 Type: Body Cost: $30000.00 Attribute: ThatAutoSuperDuperCoupeSSL
+Body -> Count: 5 Id: 220411 Type: Body Cost: $30000.00 Attribute: ThatAutoSuperDuperCoupeSSL
+Body -> Count: 6 Id: 220411 Type: Body Cost: $30000.00 Attribute: ThatAutoSuperDuperCoupeSSL
+Body -> Count: 7 Id: 220411 Type: Body Cost: $30000.00 Attribute: ThatAutoSuperDuperCoupeSSL
+Body -> Count: 8 Id: 220411 Type: Body Cost: $30000.00 Attribute: ThatAutoSuperDuperCoupeSSL
+Body -> Count: 9 Id: 220411 Type: Body Cost: $30000.00 Attribute: ThatAutoSuperDuperCoupeSSL
+Body -> Count: 0 Id: 220511 Type: Body Cost: $32000.00 Attribute: ThatAutoSuperDuperCoupeSSP
+Body -> Count: 1 Id: 220511 Type: Body Cost: $32000.00 Attribute: ThatAutoSuperDuperCoupeSSP
+Body -> Count: 2 Id: 220511 Type: Body Cost: $32000.00 Attribute: ThatAutoSuperDuperCoupeSSP
+Body -> Count: 3 Id: 220511 Type: Body Cost: $32000.00 Attribute: ThatAutoSuperDuperCoupeSSP
+Body -> Count: 4 Id: 220511 Type: Body Cost: $32000.00 Attribute: ThatAutoSuperDuperCoupeSSP
+Body -> Count: 5 Id: 220511 Type: Body Cost: $32000.00 Attribute: ThatAutoSuperDuperCoupeSSP
+Body -> Count: 6 Id: 220511 Type: Body Cost: $32000.00 Attribute: ThatAutoSuperDuperCoupeSSP
+Body -> Count: 7 Id: 220511 Type: Body Cost: $32000.00 Attribute: ThatAutoSuperDuperCoupeSSP
+Body -> Count: 8 Id: 220511 Type: Body Cost: $32000.00 Attribute: ThatAutoSuperDuperCoupeSSP
+Body -> Count: 9 Id: 220511 Type: Body Cost: $32000.00 Attribute: ThatAutoSuperDuperCoupeSSP
+Body -> Count: 0 Id: 230111 Type: Body Cost: $20000.00 Attribute: ThatAutoSuperDuperMiniVanB
+Body -> Count: 1 Id: 230111 Type: Body Cost: $20000.00 Attribute: ThatAutoSuperDuperMiniVanB
+Body -> Count: 2 Id: 230111 Type: Body Cost: $20000.00 Attribute: ThatAutoSuperDuperMiniVanB
+Body -> Count: 3 Id: 230111 Type: Body Cost: $20000.00 Attribute: ThatAutoSuperDuperMiniVanB
+Body -> Count: 4 Id: 230111 Type: Body Cost: $20000.00 Attribute: ThatAutoSuperDuperMiniVanB
+Body -> Count: 5 Id: 230111 Type: Body Cost: $20000.00 Attribute: ThatAutoSuperDuperMiniVanB
+Body -> Count: 6 Id: 230111 Type: Body Cost: $20000.00 Attribute: ThatAutoSuperDuperMiniVanB
+Body -> Count: 7 Id: 230111 Type: Body Cost: $20000.00 Attribute: ThatAutoSuperDuperMiniVanB
+Body -> Count: 8 Id: 230111 Type: Body Cost: $20000.00 Attribute: ThatAutoSuperDuperMiniVanB
+Body -> Count: 9 Id: 230111 Type: Body Cost: $20000.00 Attribute: ThatAutoSuperDuperMiniVanB
+Body -> Count: 0 Id: 230211 Type: Body Cost: $21000.00 Attribute: ThatAutoSuperDuperMiniVanL
+Body -> Count: 1 Id: 230211 Type: Body Cost: $21000.00 Attribute: ThatAutoSuperDuperMiniVanL
+Body -> Count: 2 Id: 230211 Type: Body Cost: $21000.00 Attribute: ThatAutoSuperDuperMiniVanL
+Body -> Count: 3 Id: 230211 Type: Body Cost: $21000.00 Attribute: ThatAutoSuperDuperMiniVanL
+Body -> Count: 4 Id: 230211 Type: Body Cost: $21000.00 Attribute: ThatAutoSuperDuperMiniVanL
+Body -> Count: 5 Id: 230211 Type: Body Cost: $21000.00 Attribute: ThatAutoSuperDuperMiniVanL
+Body -> Count: 6 Id: 230211 Type: Body Cost: $21000.00 Attribute: ThatAutoSuperDuperMiniVanL
+Body -> Count: 7 Id: 230211 Type: Body Cost: $21000.00 Attribute: ThatAutoSuperDuperMiniVanL
+Body -> Count: 8 Id: 230211 Type: Body Cost: $21000.00 Attribute: ThatAutoSuperDuperMiniVanL
+Body -> Count: 9 Id: 230211 Type: Body Cost: $21000.00 Attribute: ThatAutoSuperDuperMiniVanL
+Body -> Count: 0 Id: 230311 Type: Body Cost: $22000.00 Attribute: ThatAutoSuperDuperMiniVanXL
+Body -> Count: 1 Id: 230311 Type: Body Cost: $22000.00 Attribute: ThatAutoSuperDuperMiniVanXL
+Body -> Count: 2 Id: 230311 Type: Body Cost: $22000.00 Attribute: ThatAutoSuperDuperMiniVanXL
+Body -> Count: 3 Id: 230311 Type: Body Cost: $22000.00 Attribute: ThatAutoSuperDuperMiniVanXL
+Body -> Count: 4 Id: 230311 Type: Body Cost: $22000.00 Attribute: ThatAutoSuperDuperMiniVanXL
+Body -> Count: 5 Id: 230311 Type: Body Cost: $22000.00 Attribute: ThatAutoSuperDuperMiniVanXL
+Body -> Count: 6 Id: 230311 Type: Body Cost: $22000.00 Attribute: ThatAutoSuperDuperMiniVanXL
+Body -> Count: 7 Id: 230311 Type: Body Cost: $22000.00 Attribute: ThatAutoSuperDuperMiniVanXL
+Body -> Count: 8 Id: 230311 Type: Body Cost: $22000.00 Attribute: ThatAutoSuperDuperMiniVanXL
+Body -> Count: 9 Id: 230311 Type: Body Cost: $22000.00 Attribute: ThatAutoSuperDuperMiniVanXL
+Body -> Count: 0 Id: 230411 Type: Body Cost: $23000.00 Attribute: ThatAutoSuperDuperMiniVanP
+Body -> Count: 1 Id: 230411 Type: Body Cost: $23000.00 Attribute: ThatAutoSuperDuperMiniVanP
+Body -> Count: 2 Id: 230411 Type: Body Cost: $23000.00 Attribute: ThatAutoSuperDuperMiniVanP
+Body -> Count: 3 Id: 230411 Type: Body Cost: $23000.00 Attribute: ThatAutoSuperDuperMiniVanP
+Body -> Count: 4 Id: 230411 Type: Body Cost: $23000.00 Attribute: ThatAutoSuperDuperMiniVanP
+Body -> Count: 5 Id: 230411 Type: Body Cost: $23000.00 Attribute: ThatAutoSuperDuperMiniVanP
+Body -> Count: 6 Id: 230411 Type: Body Cost: $23000.00 Attribute: ThatAutoSuperDuperMiniVanP
+Body -> Count: 7 Id: 230411 Type: Body Cost: $23000.00 Attribute: ThatAutoSuperDuperMiniVanP
+Body -> Count: 8 Id: 230411 Type: Body Cost: $23000.00 Attribute: ThatAutoSuperDuperMiniVanP
+Body -> Count: 9 Id: 230411 Type: Body Cost: $23000.00 Attribute: ThatAutoSuperDuperMiniVanP
+Body -> Count: 0 Id: 230511 Type: Body Cost: $24000.00 Attribute: ThatAutoSuperDuperMiniVanH
+Body -> Count: 1 Id: 230511 Type: Body Cost: $24000.00 Attribute: ThatAutoSuperDuperMiniVanH
+Body -> Count: 2 Id: 230511 Type: Body Cost: $24000.00 Attribute: ThatAutoSuperDuperMiniVanH
+Body -> Count: 3 Id: 230511 Type: Body Cost: $24000.00 Attribute: ThatAutoSuperDuperMiniVanH
+Body -> Count: 4 Id: 230511 Type: Body Cost: $24000.00 Attribute: ThatAutoSuperDuperMiniVanH
+Body -> Count: 5 Id: 230511 Type: Body Cost: $24000.00 Attribute: ThatAutoSuperDuperMiniVanH
+Body -> Count: 6 Id: 230511 Type: Body Cost: $24000.00 Attribute: ThatAutoSuperDuperMiniVanH
+Body -> Count: 7 Id: 230511 Type: Body Cost: $24000.00 Attribute: ThatAutoSuperDuperMiniVanH
+Body -> Count: 8 Id: 230511 Type: Body Cost: $24000.00 Attribute: ThatAutoSuperDuperMiniVanH
+Body -> Count: 9 Id: 230511 Type: Body Cost: $24000.00 Attribute: ThatAutoSuperDuperMiniVanH
+Body -> Count: 0 Id: 240111 Type: Body Cost: $31000.00 Attribute: ThatAutoSuperDuperSUVB
+Body -> Count: 1 Id: 240111 Type: Body Cost: $31000.00 Attribute: ThatAutoSuperDuperSUVB
+Body -> Count: 2 Id: 240111 Type: Body Cost: $31000.00 Attribute: ThatAutoSuperDuperSUVB
+Body -> Count: 3 Id: 240111 Type: Body Cost: $31000.00 Attribute: ThatAutoSuperDuperSUVB
+Body -> Count: 4 Id: 240111 Type: Body Cost: $31000.00 Attribute: ThatAutoSuperDuperSUVB
+Body -> Count: 5 Id: 240111 Type: Body Cost: $31000.00 Attribute: ThatAutoSuperDuperSUVB
+Body -> Count: 6 Id: 240111 Type: Body Cost: $31000.00 Attribute: ThatAutoSuperDuperSUVB
+Body -> Count: 7 Id: 240111 Type: Body Cost: $31000.00 Attribute: ThatAutoSuperDuperSUVB
+Body -> Count: 8 Id: 240111 Type: Body Cost: $31000.00 Attribute: ThatAutoSuperDuperSUVB
+Body -> Count: 9 Id: 240111 Type: Body Cost: $31000.00 Attribute: ThatAutoSuperDuperSUVB
+Body -> Count: 0 Id: 240211 Type: Body Cost: $32000.00 Attribute: ThatAutoSuperDuperSUVX
+Body -> Count: 1 Id: 240211 Type: Body Cost: $32000.00 Attribute: ThatAutoSuperDuperSUVX
+Body -> Count: 2 Id: 240211 Type: Body Cost: $32000.00 Attribute: ThatAutoSuperDuperSUVX
+Body -> Count: 3 Id: 240211 Type: Body Cost: $32000.00 Attribute: ThatAutoSuperDuperSUVX
+Body -> Count: 4 Id: 240211 Type: Body Cost: $32000.00 Attribute: ThatAutoSuperDuperSUVX
+Body -> Count: 5 Id: 240211 Type: Body Cost: $32000.00 Attribute: ThatAutoSuperDuperSUVX
+Body -> Count: 6 Id: 240211 Type: Body Cost: $32000.00 Attribute: ThatAutoSuperDuperSUVX
+Body -> Count: 7 Id: 240211 Type: Body Cost: $32000.00 Attribute: ThatAutoSuperDuperSUVX
+Body -> Count: 8 Id: 240211 Type: Body Cost: $32000.00 Attribute: ThatAutoSuperDuperSUVX
+Body -> Count: 9 Id: 240211 Type: Body Cost: $32000.00 Attribute: ThatAutoSuperDuperSUVX
+Body -> Count: 0 Id: 240311 Type: Body Cost: $33000.00 Attribute: ThatAutoSuperDuperSUVXL
+Body -> Count: 1 Id: 240311 Type: Body Cost: $33000.00 Attribute: ThatAutoSuperDuperSUVXL
+Body -> Count: 2 Id: 240311 Type: Body Cost: $33000.00 Attribute: ThatAutoSuperDuperSUVXL
+Body -> Count: 3 Id: 240311 Type: Body Cost: $33000.00 Attribute: ThatAutoSuperDuperSUVXL
+Body -> Count: 4 Id: 240311 Type: Body Cost: $33000.00 Attribute: ThatAutoSuperDuperSUVXL
+Body -> Count: 5 Id: 240311 Type: Body Cost: $33000.00 Attribute: ThatAutoSuperDuperSUVXL
+Body -> Count: 6 Id: 240311 Type: Body Cost: $33000.00 Attribute: ThatAutoSuperDuperSUVXL
+Body -> Count: 7 Id: 240311 Type: Body Cost: $33000.00 Attribute: ThatAutoSuperDuperSUVXL
+Body -> Count: 8 Id: 240311 Type: Body Cost: $33000.00 Attribute: ThatAutoSuperDuperSUVXL
+Body -> Count: 9 Id: 240311 Type: Body Cost: $33000.00 Attribute: ThatAutoSuperDuperSUVXL
+Body -> Count: 0 Id: 240411 Type: Body Cost: $34000.00 Attribute: ThatAutoSuperDuperSUVSL
+Body -> Count: 1 Id: 240411 Type: Body Cost: $34000.00 Attribute: ThatAutoSuperDuperSUVSL
+Body -> Count: 2 Id: 240411 Type: Body Cost: $34000.00 Attribute: ThatAutoSuperDuperSUVSL
+Body -> Count: 3 Id: 240411 Type: Body Cost: $34000.00 Attribute: ThatAutoSuperDuperSUVSL
+Body -> Count: 4 Id: 240411 Type: Body Cost: $34000.00 Attribute: ThatAutoSuperDuperSUVSL
+Body -> Count: 5 Id: 240411 Type: Body Cost: $34000.00 Attribute: ThatAutoSuperDuperSUVSL
+Body -> Count: 6 Id: 240411 Type: Body Cost: $34000.00 Attribute: ThatAutoSuperDuperSUVSL
+Body -> Count: 7 Id: 240411 Type: Body Cost: $34000.00 Attribute: ThatAutoSuperDuperSUVSL
+Body -> Count: 8 Id: 240411 Type: Body Cost: $34000.00 Attribute: ThatAutoSuperDuperSUVSL
+Body -> Count: 9 Id: 240411 Type: Body Cost: $34000.00 Attribute: ThatAutoSuperDuperSUVSL
+Body -> Count: 0 Id: 240511 Type: Body Cost: $35000.00 Attribute: ThatAutoSuperDuperSUVSXL
+Body -> Count: 1 Id: 240511 Type: Body Cost: $35000.00 Attribute: ThatAutoSuperDuperSUVSXL
+Body -> Count: 2 Id: 240511 Type: Body Cost: $35000.00 Attribute: ThatAutoSuperDuperSUVSXL
+Body -> Count: 3 Id: 240511 Type: Body Cost: $35000.00 Attribute: ThatAutoSuperDuperSUVSXL
+Body -> Count: 4 Id: 240511 Type: Body Cost: $35000.00 Attribute: ThatAutoSuperDuperSUVSXL
+Body -> Count: 5 Id: 240511 Type: Body Cost: $35000.00 Attribute: ThatAutoSuperDuperSUVSXL
+Body -> Count: 6 Id: 240511 Type: Body Cost: $35000.00 Attribute: ThatAutoSuperDuperSUVSXL
+Body -> Count: 7 Id: 240511 Type: Body Cost: $35000.00 Attribute: ThatAutoSuperDuperSUVSXL
+Body -> Count: 8 Id: 240511 Type: Body Cost: $35000.00 Attribute: ThatAutoSuperDuperSUVSXL
+Body -> Count: 9 Id: 240511 Type: Body Cost: $35000.00 Attribute: ThatAutoSuperDuperSUVSXL
+Body -> Count: 0 Id: 250111 Type: Body Cost: $22000.00 Attribute: ThatAutoSuperDuperTruckB
+Body -> Count: 1 Id: 250111 Type: Body Cost: $22000.00 Attribute: ThatAutoSuperDuperTruckB
+Body -> Count: 2 Id: 250111 Type: Body Cost: $22000.00 Attribute: ThatAutoSuperDuperTruckB
+Body -> Count: 3 Id: 250111 Type: Body Cost: $22000.00 Attribute: ThatAutoSuperDuperTruckB
+Body -> Count: 4 Id: 250111 Type: Body Cost: $22000.00 Attribute: ThatAutoSuperDuperTruckB
+Body -> Count: 5 Id: 250111 Type: Body Cost: $22000.00 Attribute: ThatAutoSuperDuperTruckB
+Body -> Count: 6 Id: 250111 Type: Body Cost: $22000.00 Attribute: ThatAutoSuperDuperTruckB
+Body -> Count: 7 Id: 250111 Type: Body Cost: $22000.00 Attribute: ThatAutoSuperDuperTruckB
+Body -> Count: 8 Id: 250111 Type: Body Cost: $22000.00 Attribute: ThatAutoSuperDuperTruckB
+Body -> Count: 9 Id: 250111 Type: Body Cost: $22000.00 Attribute: ThatAutoSuperDuperTruckB
+Body -> Count: 0 Id: 250211 Type: Body Cost: $24000.00 Attribute: ThatAutoSuperDuperTruckX
+Body -> Count: 1 Id: 250211 Type: Body Cost: $24000.00 Attribute: ThatAutoSuperDuperTruckX
+Body -> Count: 2 Id: 250211 Type: Body Cost: $24000.00 Attribute: ThatAutoSuperDuperTruckX
+Body -> Count: 3 Id: 250211 Type: Body Cost: $24000.00 Attribute: ThatAutoSuperDuperTruckX
+Body -> Count: 4 Id: 250211 Type: Body Cost: $24000.00 Attribute: ThatAutoSuperDuperTruckX
+Body -> Count: 5 Id: 250211 Type: Body Cost: $24000.00 Attribute: ThatAutoSuperDuperTruckX
+Body -> Count: 6 Id: 250211 Type: Body Cost: $24000.00 Attribute: ThatAutoSuperDuperTruckX
+Body -> Count: 7 Id: 250211 Type: Body Cost: $24000.00 Attribute: ThatAutoSuperDuperTruckX
+Body -> Count: 8 Id: 250211 Type: Body Cost: $24000.00 Attribute: ThatAutoSuperDuperTruckX
+Body -> Count: 9 Id: 250211 Type: Body Cost: $24000.00 Attribute: ThatAutoSuperDuperTruckX
+Body -> Count: 0 Id: 250311 Type: Body Cost: $28000.00 Attribute: ThatAutoSuperDuperTruckXL
+Body -> Count: 1 Id: 250311 Type: Body Cost: $28000.00 Attribute: ThatAutoSuperDuperTruckXL
+Body -> Count: 2 Id: 250311 Type: Body Cost: $28000.00 Attribute: ThatAutoSuperDuperTruckXL
+Body -> Count: 3 Id: 250311 Type: Body Cost: $28000.00 Attribute: ThatAutoSuperDuperTruckXL
+Body -> Count: 4 Id: 250311 Type: Body Cost: $28000.00 Attribute: ThatAutoSuperDuperTruckXL
+Body -> Count: 5 Id: 250311 Type: Body Cost: $28000.00 Attribute: ThatAutoSuperDuperTruckXL
+Body -> Count: 6 Id: 250311 Type: Body Cost: $28000.00 Attribute: ThatAutoSuperDuperTruckXL
+Body -> Count: 7 Id: 250311 Type: Body Cost: $28000.00 Attribute: ThatAutoSuperDuperTruckXL
+Body -> Count: 8 Id: 250311 Type: Body Cost: $28000.00 Attribute: ThatAutoSuperDuperTruckXL
+Body -> Count: 9 Id: 250311 Type: Body Cost: $28000.00 Attribute: ThatAutoSuperDuperTruckXL
+Body -> Count: 0 Id: 250411 Type: Body Cost: $30000.00 Attribute: ThatAutoSuperDuperTruckK
+Body -> Count: 1 Id: 250411 Type: Body Cost: $30000.00 Attribute: ThatAutoSuperDuperTruckK
+Body -> Count: 2 Id: 250411 Type: Body Cost: $30000.00 Attribute: ThatAutoSuperDuperTruckK
+Body -> Count: 3 Id: 250411 Type: Body Cost: $30000.00 Attribute: ThatAutoSuperDuperTruckK
+Body -> Count: 4 Id: 250411 Type: Body Cost: $30000.00 Attribute: ThatAutoSuperDuperTruckK
+Body -> Count: 5 Id: 250411 Type: Body Cost: $30000.00 Attribute: ThatAutoSuperDuperTruckK
+Body -> Count: 6 Id: 250411 Type: Body Cost: $30000.00 Attribute: ThatAutoSuperDuperTruckK
+Body -> Count: 7 Id: 250411 Type: Body Cost: $30000.00 Attribute: ThatAutoSuperDuperTruckK
+Body -> Count: 8 Id: 250411 Type: Body Cost: $30000.00 Attribute: ThatAutoSuperDuperTruckK
+Body -> Count: 9 Id: 250411 Type: Body Cost: $30000.00 Attribute: ThatAutoSuperDuperTruckK
+Body -> Count: 0 Id: 250511 Type: Body Cost: $32000.00 Attribute: ThatAutoSuperDuperTruckT
+Body -> Count: 1 Id: 250511 Type: Body Cost: $32000.00 Attribute: ThatAutoSuperDuperTruckT
+Body -> Count: 2 Id: 250511 Type: Body Cost: $32000.00 Attribute: ThatAutoSuperDuperTruckT
+Body -> Count: 3 Id: 250511 Type: Body Cost: $32000.00 Attribute: ThatAutoSuperDuperTruckT
+Body -> Count: 4 Id: 250511 Type: Body Cost: $32000.00 Attribute: ThatAutoSuperDuperTruckT
+Body -> Count: 5 Id: 250511 Type: Body Cost: $32000.00 Attribute: ThatAutoSuperDuperTruckT
+Body -> Count: 6 Id: 250511 Type: Body Cost: $32000.00 Attribute: ThatAutoSuperDuperTruckT
+Body -> Count: 7 Id: 250511 Type: Body Cost: $32000.00 Attribute: ThatAutoSuperDuperTruckT
+Body -> Count: 8 Id: 250511 Type: Body Cost: $32000.00 Attribute: ThatAutoSuperDuperTruckT
+Body -> Count: 9 Id: 250511 Type: Body Cost: $32000.00 Attribute: ThatAutoSuperDuperTruckT
+Exterior -> Count: 0 Id: 1 Type: Exterior Cost: $3000.00 Attribute: Blue
+Exterior -> Count: 1 Id: 1 Type: Exterior Cost: $3000.00 Attribute: Blue
+Exterior -> Count: 2 Id: 1 Type: Exterior Cost: $3000.00 Attribute: Blue
+Exterior -> Count: 3 Id: 1 Type: Exterior Cost: $3000.00 Attribute: Blue
+Exterior -> Count: 4 Id: 1 Type: Exterior Cost: $3000.00 Attribute: Blue
+Exterior -> Count: 5 Id: 1 Type: Exterior Cost: $3000.00 Attribute: Blue
+Exterior -> Count: 6 Id: 1 Type: Exterior Cost: $3000.00 Attribute: Blue
+Exterior -> Count: 7 Id: 1 Type: Exterior Cost: $3000.00 Attribute: Blue
+Exterior -> Count: 8 Id: 1 Type: Exterior Cost: $3000.00 Attribute: Blue
+Exterior -> Count: 9 Id: 1 Type: Exterior Cost: $3000.00 Attribute: Blue
+Exterior -> Count: 0 Id: 2 Type: Exterior Cost: $3000.00 Attribute: Red
+Exterior -> Count: 1 Id: 2 Type: Exterior Cost: $3000.00 Attribute: Red
+Exterior -> Count: 2 Id: 2 Type: Exterior Cost: $3000.00 Attribute: Red
+Exterior -> Count: 3 Id: 2 Type: Exterior Cost: $3000.00 Attribute: Red
+Exterior -> Count: 4 Id: 2 Type: Exterior Cost: $3000.00 Attribute: Red
+Exterior -> Count: 5 Id: 2 Type: Exterior Cost: $3000.00 Attribute: Red
+Exterior -> Count: 6 Id: 2 Type: Exterior Cost: $3000.00 Attribute: Red
+Exterior -> Count: 7 Id: 2 Type: Exterior Cost: $3000.00 Attribute: Red
+Exterior -> Count: 8 Id: 2 Type: Exterior Cost: $3000.00 Attribute: Red
+Exterior -> Count: 9 Id: 2 Type: Exterior Cost: $3000.00 Attribute: Red
+Exterior -> Count: 0 Id: 3 Type: Exterior Cost: $3000.00 Attribute: Green
+Exterior -> Count: 1 Id: 3 Type: Exterior Cost: $3000.00 Attribute: Green
+Exterior -> Count: 2 Id: 3 Type: Exterior Cost: $3000.00 Attribute: Green
+Exterior -> Count: 3 Id: 3 Type: Exterior Cost: $3000.00 Attribute: Green
+Exterior -> Count: 4 Id: 3 Type: Exterior Cost: $3000.00 Attribute: Green
+Exterior -> Count: 5 Id: 3 Type: Exterior Cost: $3000.00 Attribute: Green
+Exterior -> Count: 6 Id: 3 Type: Exterior Cost: $3000.00 Attribute: Green
+Exterior -> Count: 7 Id: 3 Type: Exterior Cost: $3000.00 Attribute: Green
+Exterior -> Count: 8 Id: 3 Type: Exterior Cost: $3000.00 Attribute: Green
+Exterior -> Count: 9 Id: 3 Type: Exterior Cost: $3000.00 Attribute: Green
+Exterior -> Count: 0 Id: 4 Type: Exterior Cost: $3000.00 Attribute: White
+Exterior -> Count: 1 Id: 4 Type: Exterior Cost: $3000.00 Attribute: White
+Exterior -> Count: 2 Id: 4 Type: Exterior Cost: $3000.00 Attribute: White
+Exterior -> Count: 3 Id: 4 Type: Exterior Cost: $3000.00 Attribute: White
+Exterior -> Count: 4 Id: 4 Type: Exterior Cost: $3000.00 Attribute: White
+Exterior -> Count: 5 Id: 4 Type: Exterior Cost: $3000.00 Attribute: White
+Exterior -> Count: 6 Id: 4 Type: Exterior Cost: $3000.00 Attribute: White
+Exterior -> Count: 7 Id: 4 Type: Exterior Cost: $3000.00 Attribute: White
+Exterior -> Count: 8 Id: 4 Type: Exterior Cost: $3000.00 Attribute: White
+Exterior -> Count: 9 Id: 4 Type: Exterior Cost: $3000.00 Attribute: White
+Exterior -> Count: 0 Id: 5 Type: Exterior Cost: $3000.00 Attribute: Black
+Exterior -> Count: 1 Id: 5 Type: Exterior Cost: $3000.00 Attribute: Black
+Exterior -> Count: 2 Id: 5 Type: Exterior Cost: $3000.00 Attribute: Black
+Exterior -> Count: 3 Id: 5 Type: Exterior Cost: $3000.00 Attribute: Black
+Exterior -> Count: 4 Id: 5 Type: Exterior Cost: $3000.00 Attribute: Black
+Exterior -> Count: 5 Id: 5 Type: Exterior Cost: $3000.00 Attribute: Black
+Exterior -> Count: 6 Id: 5 Type: Exterior Cost: $3000.00 Attribute: Black
+Exterior -> Count: 7 Id: 5 Type: Exterior Cost: $3000.00 Attribute: Black
+Exterior -> Count: 8 Id: 5 Type: Exterior Cost: $3000.00 Attribute: Black
+Exterior -> Count: 9 Id: 5 Type: Exterior Cost: $3000.00 Attribute: Black
+Exterior -> Count: 0 Id: 6 Type: Exterior Cost: $3000.00 Attribute: Yellow
+Exterior -> Count: 1 Id: 6 Type: Exterior Cost: $3000.00 Attribute: Yellow
+Exterior -> Count: 2 Id: 6 Type: Exterior Cost: $3000.00 Attribute: Yellow
+Exterior -> Count: 3 Id: 6 Type: Exterior Cost: $3000.00 Attribute: Yellow
+Exterior -> Count: 4 Id: 6 Type: Exterior Cost: $3000.00 Attribute: Yellow
+Exterior -> Count: 5 Id: 6 Type: Exterior Cost: $3000.00 Attribute: Yellow
+Exterior -> Count: 6 Id: 6 Type: Exterior Cost: $3000.00 Attribute: Yellow
+Exterior -> Count: 7 Id: 6 Type: Exterior Cost: $3000.00 Attribute: Yellow
+Exterior -> Count: 8 Id: 6 Type: Exterior Cost: $3000.00 Attribute: Yellow
+Exterior -> Count: 9 Id: 6 Type: Exterior Cost: $3000.00 Attribute: Yellow
+Exterior -> Count: 0 Id: 7 Type: Exterior Cost: $3000.00 Attribute: Orange
+Exterior -> Count: 1 Id: 7 Type: Exterior Cost: $3000.00 Attribute: Orange
+Exterior -> Count: 2 Id: 7 Type: Exterior Cost: $3000.00 Attribute: Orange
+Exterior -> Count: 3 Id: 7 Type: Exterior Cost: $3000.00 Attribute: Orange
+Exterior -> Count: 4 Id: 7 Type: Exterior Cost: $3000.00 Attribute: Orange
+Exterior -> Count: 5 Id: 7 Type: Exterior Cost: $3000.00 Attribute: Orange
+Exterior -> Count: 6 Id: 7 Type: Exterior Cost: $3000.00 Attribute: Orange
+Exterior -> Count: 7 Id: 7 Type: Exterior Cost: $3000.00 Attribute: Orange
+Exterior -> Count: 8 Id: 7 Type: Exterior Cost: $3000.00 Attribute: Orange
+Exterior -> Count: 9 Id: 7 Type: Exterior Cost: $3000.00 Attribute: Orange
+Exterior -> Count: 0 Id: 8 Type: Exterior Cost: $3000.00 Attribute: Gold
+Exterior -> Count: 1 Id: 8 Type: Exterior Cost: $3000.00 Attribute: Gold
+Exterior -> Count: 2 Id: 8 Type: Exterior Cost: $3000.00 Attribute: Gold
+Exterior -> Count: 3 Id: 8 Type: Exterior Cost: $3000.00 Attribute: Gold
+Exterior -> Count: 4 Id: 8 Type: Exterior Cost: $3000.00 Attribute: Gold
+Exterior -> Count: 5 Id: 8 Type: Exterior Cost: $3000.00 Attribute: Gold
+Exterior -> Count: 6 Id: 8 Type: Exterior Cost: $3000.00 Attribute: Gold
+Exterior -> Count: 7 Id: 8 Type: Exterior Cost: $3000.00 Attribute: Gold
+Exterior -> Count: 8 Id: 8 Type: Exterior Cost: $3000.00 Attribute: Gold
+Exterior -> Count: 9 Id: 8 Type: Exterior Cost: $3000.00 Attribute: Gold
+Exterior -> Count: 0 Id: 9 Type: Exterior Cost: $3000.00 Attribute: Purple
+Exterior -> Count: 1 Id: 9 Type: Exterior Cost: $3000.00 Attribute: Purple
+Exterior -> Count: 2 Id: 9 Type: Exterior Cost: $3000.00 Attribute: Purple
+Exterior -> Count: 3 Id: 9 Type: Exterior Cost: $3000.00 Attribute: Purple
+Exterior -> Count: 4 Id: 9 Type: Exterior Cost: $3000.00 Attribute: Purple
+Exterior -> Count: 5 Id: 9 Type: Exterior Cost: $3000.00 Attribute: Purple
+Exterior -> Count: 6 Id: 9 Type: Exterior Cost: $3000.00 Attribute: Purple
+Exterior -> Count: 7 Id: 9 Type: Exterior Cost: $3000.00 Attribute: Purple
+Exterior -> Count: 8 Id: 9 Type: Exterior Cost: $3000.00 Attribute: Purple
+Exterior -> Count: 9 Id: 9 Type: Exterior Cost: $3000.00 Attribute: Purple
+Interior -> Count: 0 Id: 1 Type: Interior Cost: $5000.00 Attribute: Tan Attribute: Leather
+Interior -> Count: 1 Id: 1 Type: Interior Cost: $5000.00 Attribute: Tan Attribute: Leather
+Interior -> Count: 2 Id: 1 Type: Interior Cost: $5000.00 Attribute: Tan Attribute: Leather
+Interior -> Count: 3 Id: 1 Type: Interior Cost: $5000.00 Attribute: Tan Attribute: Leather
+Interior -> Count: 4 Id: 1 Type: Interior Cost: $5000.00 Attribute: Tan Attribute: Leather
+Interior -> Count: 5 Id: 1 Type: Interior Cost: $5000.00 Attribute: Tan Attribute: Leather
+Interior -> Count: 6 Id: 1 Type: Interior Cost: $5000.00 Attribute: Tan Attribute: Leather
+Interior -> Count: 7 Id: 1 Type: Interior Cost: $5000.00 Attribute: Tan Attribute: Leather
+Interior -> Count: 8 Id: 1 Type: Interior Cost: $5000.00 Attribute: Tan Attribute: Leather
+Interior -> Count: 9 Id: 1 Type: Interior Cost: $5000.00 Attribute: Tan Attribute: Leather
+Interior -> Count: 0 Id: 2 Type: Interior Cost: $5000.00 Attribute: Black Attribute: Leather
+Interior -> Count: 1 Id: 2 Type: Interior Cost: $5000.00 Attribute: Black Attribute: Leather
+Interior -> Count: 2 Id: 2 Type: Interior Cost: $5000.00 Attribute: Black Attribute: Leather
+Interior -> Count: 3 Id: 2 Type: Interior Cost: $5000.00 Attribute: Black Attribute: Leather
+Interior -> Count: 4 Id: 2 Type: Interior Cost: $5000.00 Attribute: Black Attribute: Leather
+Interior -> Count: 5 Id: 2 Type: Interior Cost: $5000.00 Attribute: Black Attribute: Leather
+Interior -> Count: 6 Id: 2 Type: Interior Cost: $5000.00 Attribute: Black Attribute: Leather
+Interior -> Count: 7 Id: 2 Type: Interior Cost: $5000.00 Attribute: Black Attribute: Leather
+Interior -> Count: 8 Id: 2 Type: Interior Cost: $5000.00 Attribute: Black Attribute: Leather
+Interior -> Count: 9 Id: 2 Type: Interior Cost: $5000.00 Attribute: Black Attribute: Leather
+Interior -> Count: 0 Id: 3 Type: Interior Cost: $5000.00 Attribute: Red Attribute: Leather
+Interior -> Count: 1 Id: 3 Type: Interior Cost: $5000.00 Attribute: Red Attribute: Leather
+Interior -> Count: 2 Id: 3 Type: Interior Cost: $5000.00 Attribute: Red Attribute: Leather
+Interior -> Count: 3 Id: 3 Type: Interior Cost: $5000.00 Attribute: Red Attribute: Leather
+Interior -> Count: 4 Id: 3 Type: Interior Cost: $5000.00 Attribute: Red Attribute: Leather
+Interior -> Count: 5 Id: 3 Type: Interior Cost: $5000.00 Attribute: Red Attribute: Leather
+Interior -> Count: 6 Id: 3 Type: Interior Cost: $5000.00 Attribute: Red Attribute: Leather
+Interior -> Count: 7 Id: 3 Type: Interior Cost: $5000.00 Attribute: Red Attribute: Leather
+Interior -> Count: 8 Id: 3 Type: Interior Cost: $5000.00 Attribute: Red Attribute: Leather
+Interior -> Count: 9 Id: 3 Type: Interior Cost: $5000.00 Attribute: Red Attribute: Leather
+Interior -> Count: 0 Id: 4 Type: Interior Cost: $3000.00 Attribute: Tan Attribute: Vinyl
+Interior -> Count: 1 Id: 4 Type: Interior Cost: $3000.00 Attribute: Tan Attribute: Vinyl
+Interior -> Count: 2 Id: 4 Type: Interior Cost: $3000.00 Attribute: Tan Attribute: Vinyl
+Interior -> Count: 3 Id: 4 Type: Interior Cost: $3000.00 Attribute: Tan Attribute: Vinyl
+Interior -> Count: 4 Id: 4 Type: Interior Cost: $3000.00 Attribute: Tan Attribute: Vinyl
+Interior -> Count: 5 Id: 4 Type: Interior Cost: $3000.00 Attribute: Tan Attribute: Vinyl
+Interior -> Count: 6 Id: 4 Type: Interior Cost: $3000.00 Attribute: Tan Attribute: Vinyl
+Interior -> Count: 7 Id: 4 Type: Interior Cost: $3000.00 Attribute: Tan Attribute: Vinyl
+Interior -> Count: 8 Id: 4 Type: Interior Cost: $3000.00 Attribute: Tan Attribute: Vinyl
+Interior -> Count: 9 Id: 4 Type: Interior Cost: $3000.00 Attribute: Tan Attribute: Vinyl
+Interior -> Count: 0 Id: 5 Type: Interior Cost: $3000.00 Attribute: Black Attribute: Vinyl
+Interior -> Count: 1 Id: 5 Type: Interior Cost: $3000.00 Attribute: Black Attribute: Vinyl
+Interior -> Count: 2 Id: 5 Type: Interior Cost: $3000.00 Attribute: Black Attribute: Vinyl
+Interior -> Count: 3 Id: 5 Type: Interior Cost: $3000.00 Attribute: Black Attribute: Vinyl
+Interior -> Count: 4 Id: 5 Type: Interior Cost: $3000.00 Attribute: Black Attribute: Vinyl
+Interior -> Count: 5 Id: 5 Type: Interior Cost: $3000.00 Attribute: Black Attribute: Vinyl
+Interior -> Count: 6 Id: 5 Type: Interior Cost: $3000.00 Attribute: Black Attribute: Vinyl
+Interior -> Count: 7 Id: 5 Type: Interior Cost: $3000.00 Attribute: Black Attribute: Vinyl
+Interior -> Count: 8 Id: 5 Type: Interior Cost: $3000.00 Attribute: Black Attribute: Vinyl
+Interior -> Count: 9 Id: 5 Type: Interior Cost: $3000.00 Attribute: Black Attribute: Vinyl
+Interior -> Count: 0 Id: 6 Type: Interior Cost: $3000.00 Attribute: Red Attribute: Vinyl
+Interior -> Count: 1 Id: 6 Type: Interior Cost: $3000.00 Attribute: Red Attribute: Vinyl
+Interior -> Count: 2 Id: 6 Type: Interior Cost: $3000.00 Attribute: Red Attribute: Vinyl
+Interior -> Count: 3 Id: 6 Type: Interior Cost: $3000.00 Attribute: Red Attribute: Vinyl
+Interior -> Count: 4 Id: 6 Type: Interior Cost: $3000.00 Attribute: Red Attribute: Vinyl
+Interior -> Count: 5 Id: 6 Type: Interior Cost: $3000.00 Attribute: Red Attribute: Vinyl
+Interior -> Count: 6 Id: 6 Type: Interior Cost: $3000.00 Attribute: Red Attribute: Vinyl
+Interior -> Count: 7 Id: 6 Type: Interior Cost: $3000.00 Attribute: Red Attribute: Vinyl
+Interior -> Count: 8 Id: 6 Type: Interior Cost: $3000.00 Attribute: Red Attribute: Vinyl
+Interior -> Count: 9 Id: 6 Type: Interior Cost: $3000.00 Attribute: Red Attribute: Vinyl
+Interior -> Count: 0 Id: 7 Type: Interior Cost: $1000.00 Attribute: Tan Attribute: Cloth
+Interior -> Count: 1 Id: 7 Type: Interior Cost: $1000.00 Attribute: Tan Attribute: Cloth
+Interior -> Count: 2 Id: 7 Type: Interior Cost: $1000.00 Attribute: Tan Attribute: Cloth
+Interior -> Count: 3 Id: 7 Type: Interior Cost: $1000.00 Attribute: Tan Attribute: Cloth
+Interior -> Count: 4 Id: 7 Type: Interior Cost: $1000.00 Attribute: Tan Attribute: Cloth
+Interior -> Count: 5 Id: 7 Type: Interior Cost: $1000.00 Attribute: Tan Attribute: Cloth
+Interior -> Count: 6 Id: 7 Type: Interior Cost: $1000.00 Attribute: Tan Attribute: Cloth
+Interior -> Count: 7 Id: 7 Type: Interior Cost: $1000.00 Attribute: Tan Attribute: Cloth
+Interior -> Count: 8 Id: 7 Type: Interior Cost: $1000.00 Attribute: Tan Attribute: Cloth
+Interior -> Count: 9 Id: 7 Type: Interior Cost: $1000.00 Attribute: Tan Attribute: Cloth
+Interior -> Count: 0 Id: 8 Type: Interior Cost: $1000.00 Attribute: Black Attribute: Cloth
+Interior -> Count: 1 Id: 8 Type: Interior Cost: $1000.00 Attribute: Black Attribute: Cloth
+Interior -> Count: 2 Id: 8 Type: Interior Cost: $1000.00 Attribute: Black Attribute: Cloth
+Interior -> Count: 3 Id: 8 Type: Interior Cost: $1000.00 Attribute: Black Attribute: Cloth
+Interior -> Count: 4 Id: 8 Type: Interior Cost: $1000.00 Attribute: Black Attribute: Cloth
+Interior -> Count: 5 Id: 8 Type: Interior Cost: $1000.00 Attribute: Black Attribute: Cloth
+Interior -> Count: 6 Id: 8 Type: Interior Cost: $1000.00 Attribute: Black Attribute: Cloth
+Interior -> Count: 7 Id: 8 Type: Interior Cost: $1000.00 Attribute: Black Attribute: Cloth
+Interior -> Count: 8 Id: 8 Type: Interior Cost: $1000.00 Attribute: Black Attribute: Cloth
+Interior -> Count: 9 Id: 8 Type: Interior Cost: $1000.00 Attribute: Black Attribute: Cloth
+Interior -> Count: 0 Id: 9 Type: Interior Cost: $1000.00 Attribute: Red Attribute: Cloth
+Interior -> Count: 1 Id: 9 Type: Interior Cost: $1000.00 Attribute: Red Attribute: Cloth
+Interior -> Count: 2 Id: 9 Type: Interior Cost: $1000.00 Attribute: Red Attribute: Cloth
+Interior -> Count: 3 Id: 9 Type: Interior Cost: $1000.00 Attribute: Red Attribute: Cloth
+Interior -> Count: 4 Id: 9 Type: Interior Cost: $1000.00 Attribute: Red Attribute: Cloth
+Interior -> Count: 5 Id: 9 Type: Interior Cost: $1000.00 Attribute: Red Attribute: Cloth
+Interior -> Count: 6 Id: 9 Type: Interior Cost: $1000.00 Attribute: Red Attribute: Cloth
+Interior -> Count: 7 Id: 9 Type: Interior Cost: $1000.00 Attribute: Red Attribute: Cloth
+Interior -> Count: 8 Id: 9 Type: Interior Cost: $1000.00 Attribute: Red Attribute: Cloth
+Interior -> Count: 9 Id: 9 Type: Interior Cost: $1000.00 Attribute: Red Attribute: Cloth
+Seat -> Count: 0 Id: 1 Type: Seat Cost: $800.00 Attribute: Multi-Point
+Seat -> Count: 1 Id: 1 Type: Seat Cost: $800.00 Attribute: Multi-Point
+Seat -> Count: 2 Id: 1 Type: Seat Cost: $800.00 Attribute: Multi-Point
+Seat -> Count: 3 Id: 1 Type: Seat Cost: $800.00 Attribute: Multi-Point
+Seat -> Count: 4 Id: 1 Type: Seat Cost: $800.00 Attribute: Multi-Point
+Seat -> Count: 5 Id: 1 Type: Seat Cost: $800.00 Attribute: Multi-Point
+Seat -> Count: 6 Id: 1 Type: Seat Cost: $800.00 Attribute: Multi-Point
+Seat -> Count: 7 Id: 1 Type: Seat Cost: $800.00 Attribute: Multi-Point
+Seat -> Count: 8 Id: 1 Type: Seat Cost: $800.00 Attribute: Multi-Point
+Seat -> Count: 9 Id: 1 Type: Seat Cost: $800.00 Attribute: Multi-Point
+Seat -> Count: 0 Id: 2 Type: Seat Cost: $1200.00 Attribute: Heated
+Seat -> Count: 1 Id: 2 Type: Seat Cost: $1200.00 Attribute: Heated
+Seat -> Count: 2 Id: 2 Type: Seat Cost: $1200.00 Attribute: Heated
+Seat -> Count: 3 Id: 2 Type: Seat Cost: $1200.00 Attribute: Heated
+Seat -> Count: 4 Id: 2 Type: Seat Cost: $1200.00 Attribute: Heated
+Seat -> Count: 5 Id: 2 Type: Seat Cost: $1200.00 Attribute: Heated
+Seat -> Count: 6 Id: 2 Type: Seat Cost: $1200.00 Attribute: Heated
+Seat -> Count: 7 Id: 2 Type: Seat Cost: $1200.00 Attribute: Heated
+Seat -> Count: 8 Id: 2 Type: Seat Cost: $1200.00 Attribute: Heated
+Seat -> Count: 9 Id: 2 Type: Seat Cost: $1200.00 Attribute: Heated
+Seat -> Count: 0 Id: 3 Type: Seat Cost: $2000.00 Attribute: Air
+Seat -> Count: 1 Id: 3 Type: Seat Cost: $2000.00 Attribute: Air
+Seat -> Count: 2 Id: 3 Type: Seat Cost: $2000.00 Attribute: Air
+Seat -> Count: 3 Id: 3 Type: Seat Cost: $2000.00 Attribute: Air
+Seat -> Count: 4 Id: 3 Type: Seat Cost: $2000.00 Attribute: Air
+Seat -> Count: 5 Id: 3 Type: Seat Cost: $2000.00 Attribute: Air
+Seat -> Count: 6 Id: 3 Type: Seat Cost: $2000.00 Attribute: Air
+Seat -> Count: 7 Id: 3 Type: Seat Cost: $2000.00 Attribute: Air
+Seat -> Count: 8 Id: 3 Type: Seat Cost: $2000.00 Attribute: Air
+Seat -> Count: 9 Id: 3 Type: Seat Cost: $2000.00 Attribute: Air
+Radio -> Count: 0 Id: 1 Type: Radio Cost: $500.00 Attribute: AM/FM
+Radio -> Count: 1 Id: 1 Type: Radio Cost: $500.00 Attribute: AM/FM
+Radio -> Count: 2 Id: 1 Type: Radio Cost: $500.00 Attribute: AM/FM
+Radio -> Count: 3 Id: 1 Type: Radio Cost: $500.00 Attribute: AM/FM
+Radio -> Count: 4 Id: 1 Type: Radio Cost: $500.00 Attribute: AM/FM
+Radio -> Count: 5 Id: 1 Type: Radio Cost: $500.00 Attribute: AM/FM
+Radio -> Count: 6 Id: 1 Type: Radio Cost: $500.00 Attribute: AM/FM
+Radio -> Count: 7 Id: 1 Type: Radio Cost: $500.00 Attribute: AM/FM
+Radio -> Count: 8 Id: 1 Type: Radio Cost: $500.00 Attribute: AM/FM
+Radio -> Count: 9 Id: 1 Type: Radio Cost: $500.00 Attribute: AM/FM
+Radio -> Count: 0 Id: 2 Type: Radio Cost: $750.00 Attribute: CD
+Radio -> Count: 1 Id: 2 Type: Radio Cost: $750.00 Attribute: CD
+Radio -> Count: 2 Id: 2 Type: Radio Cost: $750.00 Attribute: CD
+Radio -> Count: 3 Id: 2 Type: Radio Cost: $750.00 Attribute: CD
+Radio -> Count: 4 Id: 2 Type: Radio Cost: $750.00 Attribute: CD
+Radio -> Count: 5 Id: 2 Type: Radio Cost: $750.00 Attribute: CD
+Radio -> Count: 6 Id: 2 Type: Radio Cost: $750.00 Attribute: CD
+Radio -> Count: 7 Id: 2 Type: Radio Cost: $750.00 Attribute: CD
+Radio -> Count: 8 Id: 2 Type: Radio Cost: $750.00 Attribute: CD
+Radio -> Count: 9 Id: 2 Type: Radio Cost: $750.00 Attribute: CD
+Radio -> Count: 0 Id: 3 Type: Radio Cost: $850.00 Attribute: MP3
+Radio -> Count: 1 Id: 3 Type: Radio Cost: $850.00 Attribute: MP3
+Radio -> Count: 2 Id: 3 Type: Radio Cost: $850.00 Attribute: MP3
+Radio -> Count: 3 Id: 3 Type: Radio Cost: $850.00 Attribute: MP3
+Radio -> Count: 4 Id: 3 Type: Radio Cost: $850.00 Attribute: MP3
+Radio -> Count: 5 Id: 3 Type: Radio Cost: $850.00 Attribute: MP3
+Radio -> Count: 6 Id: 3 Type: Radio Cost: $850.00 Attribute: MP3
+Radio -> Count: 7 Id: 3 Type: Radio Cost: $850.00 Attribute: MP3
+Radio -> Count: 8 Id: 3 Type: Radio Cost: $850.00 Attribute: MP3
+Radio -> Count: 9 Id: 3 Type: Radio Cost: $850.00 Attribute: MP3
+Radio -> Count: 0 Id: 4 Type: Radio Cost: $900.00 Attribute: Sirius/XM
+Radio -> Count: 1 Id: 4 Type: Radio Cost: $900.00 Attribute: Sirius/XM
+Radio -> Count: 2 Id: 4 Type: Radio Cost: $900.00 Attribute: Sirius/XM
+Radio -> Count: 3 Id: 4 Type: Radio Cost: $900.00 Attribute: Sirius/XM
+Radio -> Count: 4 Id: 4 Type: Radio Cost: $900.00 Attribute: Sirius/XM
+Radio -> Count: 5 Id: 4 Type: Radio Cost: $900.00 Attribute: Sirius/XM
+Radio -> Count: 6 Id: 4 Type: Radio Cost: $900.00 Attribute: Sirius/XM
+Radio -> Count: 7 Id: 4 Type: Radio Cost: $900.00 Attribute: Sirius/XM
+Radio -> Count: 8 Id: 4 Type: Radio Cost: $900.00 Attribute: Sirius/XM
+Radio -> Count: 9 Id: 4 Type: Radio Cost: $900.00 Attribute: Sirius/XM
+Radio -> Count: 0 Id: 5 Type: Radio Cost: $3000.00 Attribute: NAV
+Radio -> Count: 1 Id: 5 Type: Radio Cost: $3000.00 Attribute: NAV
+Radio -> Count: 2 Id: 5 Type: Radio Cost: $3000.00 Attribute: NAV
+Radio -> Count: 3 Id: 5 Type: Radio Cost: $3000.00 Attribute: NAV
+Radio -> Count: 4 Id: 5 Type: Radio Cost: $3000.00 Attribute: NAV
+Radio -> Count: 5 Id: 5 Type: Radio Cost: $3000.00 Attribute: NAV
+Radio -> Count: 6 Id: 5 Type: Radio Cost: $3000.00 Attribute: NAV
+Radio -> Count: 7 Id: 5 Type: Radio Cost: $3000.00 Attribute: NAV
+Radio -> Count: 8 Id: 5 Type: Radio Cost: $3000.00 Attribute: NAV
+Radio -> Count: 9 Id: 5 Type: Radio Cost: $3000.00 Attribute: NAV
+Rim -> Count: 0 Id: 1 Type: Rim Cost: $1100.00 Attribute: 18
+Rim -> Count: 1 Id: 1 Type: Rim Cost: $1100.00 Attribute: 18
+Rim -> Count: 2 Id: 1 Type: Rim Cost: $1100.00 Attribute: 18
+Rim -> Count: 3 Id: 1 Type: Rim Cost: $1100.00 Attribute: 18
+Rim -> Count: 4 Id: 1 Type: Rim Cost: $1100.00 Attribute: 18
+Rim -> Count: 5 Id: 1 Type: Rim Cost: $1100.00 Attribute: 18
+Rim -> Count: 6 Id: 1 Type: Rim Cost: $1100.00 Attribute: 18
+Rim -> Count: 7 Id: 1 Type: Rim Cost: $1100.00 Attribute: 18
+Rim -> Count: 8 Id: 1 Type: Rim Cost: $1100.00 Attribute: 18
+Rim -> Count: 9 Id: 1 Type: Rim Cost: $1100.00 Attribute: 18
+Rim -> Count: 0 Id: 2 Type: Rim Cost: $1200.00 Attribute: 19
+Rim -> Count: 1 Id: 2 Type: Rim Cost: $1200.00 Attribute: 19
+Rim -> Count: 2 Id: 2 Type: Rim Cost: $1200.00 Attribute: 19
+Rim -> Count: 3 Id: 2 Type: Rim Cost: $1200.00 Attribute: 19
+Rim -> Count: 4 Id: 2 Type: Rim Cost: $1200.00 Attribute: 19
+Rim -> Count: 5 Id: 2 Type: Rim Cost: $1200.00 Attribute: 19
+Rim -> Count: 6 Id: 2 Type: Rim Cost: $1200.00 Attribute: 19
+Rim -> Count: 7 Id: 2 Type: Rim Cost: $1200.00 Attribute: 19
+Rim -> Count: 8 Id: 2 Type: Rim Cost: $1200.00 Attribute: 19
+Rim -> Count: 9 Id: 2 Type: Rim Cost: $1200.00 Attribute: 19
+Rim -> Count: 0 Id: 3 Type: Rim Cost: $1300.00 Attribute: 20
+Rim -> Count: 1 Id: 3 Type: Rim Cost: $1300.00 Attribute: 20
+Rim -> Count: 2 Id: 3 Type: Rim Cost: $1300.00 Attribute: 20
+Rim -> Count: 3 Id: 3 Type: Rim Cost: $1300.00 Attribute: 20
+Rim -> Count: 4 Id: 3 Type: Rim Cost: $1300.00 Attribute: 20
+Rim -> Count: 5 Id: 3 Type: Rim Cost: $1300.00 Attribute: 20
+Rim -> Count: 6 Id: 3 Type: Rim Cost: $1300.00 Attribute: 20
+Rim -> Count: 7 Id: 3 Type: Rim Cost: $1300.00 Attribute: 20
+Rim -> Count: 8 Id: 3 Type: Rim Cost: $1300.00 Attribute: 20
+Rim -> Count: 9 Id: 3 Type: Rim Cost: $1300.00 Attribute: 20
+Rim -> Count: 0 Id: 4 Type: Rim Cost: $1400.00 Attribute: 22
+Rim -> Count: 1 Id: 4 Type: Rim Cost: $1400.00 Attribute: 22
+Rim -> Count: 2 Id: 4 Type: Rim Cost: $1400.00 Attribute: 22
+Rim -> Count: 3 Id: 4 Type: Rim Cost: $1400.00 Attribute: 22
+Rim -> Count: 4 Id: 4 Type: Rim Cost: $1400.00 Attribute: 22
+Rim -> Count: 5 Id: 4 Type: Rim Cost: $1400.00 Attribute: 22
+Rim -> Count: 6 Id: 4 Type: Rim Cost: $1400.00 Attribute: 22
+Rim -> Count: 7 Id: 4 Type: Rim Cost: $1400.00 Attribute: 22
+Rim -> Count: 8 Id: 4 Type: Rim Cost: $1400.00 Attribute: 22
+Rim -> Count: 9 Id: 4 Type: Rim Cost: $1400.00 Attribute: 22
+Rim -> Count: 0 Id: 5 Type: Rim Cost: $2000.00 Attribute: 26
+Rim -> Count: 1 Id: 5 Type: Rim Cost: $2000.00 Attribute: 26
+Rim -> Count: 2 Id: 5 Type: Rim Cost: $2000.00 Attribute: 26
+Rim -> Count: 3 Id: 5 Type: Rim Cost: $2000.00 Attribute: 26
+Rim -> Count: 4 Id: 5 Type: Rim Cost: $2000.00 Attribute: 26
+Rim -> Count: 5 Id: 5 Type: Rim Cost: $2000.00 Attribute: 26
+Rim -> Count: 6 Id: 5 Type: Rim Cost: $2000.00 Attribute: 26
+Rim -> Count: 7 Id: 5 Type: Rim Cost: $2000.00 Attribute: 26
+Rim -> Count: 8 Id: 5 Type: Rim Cost: $2000.00 Attribute: 26
+Rim -> Count: 9 Id: 5 Type: Rim Cost: $2000.00 Attribute: 26
+TIRE -> Count: 0 Id: 1 Type: Tire Cost: $500.00 Attribute: All-Weather
+TIRE -> Count: 1 Id: 1 Type: Tire Cost: $500.00 Attribute: All-Weather
+TIRE -> Count: 2 Id: 1 Type: Tire Cost: $500.00 Attribute: All-Weather
+TIRE -> Count: 3 Id: 1 Type: Tire Cost: $500.00 Attribute: All-Weather
+TIRE -> Count: 4 Id: 1 Type: Tire Cost: $500.00 Attribute: All-Weather
+TIRE -> Count: 5 Id: 1 Type: Tire Cost: $500.00 Attribute: All-Weather
+TIRE -> Count: 6 Id: 1 Type: Tire Cost: $500.00 Attribute: All-Weather
+TIRE -> Count: 7 Id: 1 Type: Tire Cost: $500.00 Attribute: All-Weather
+TIRE -> Count: 8 Id: 1 Type: Tire Cost: $500.00 Attribute: All-Weather
+TIRE -> Count: 9 Id: 1 Type: Tire Cost: $500.00 Attribute: All-Weather
+TIRE -> Count: 0 Id: 2 Type: Tire Cost: $1100.00 Attribute: Sports
+TIRE -> Count: 1 Id: 2 Type: Tire Cost: $1100.00 Attribute: Sports
+TIRE -> Count: 2 Id: 2 Type: Tire Cost: $1100.00 Attribute: Sports
+TIRE -> Count: 3 Id: 2 Type: Tire Cost: $1100.00 Attribute: Sports
+TIRE -> Count: 4 Id: 2 Type: Tire Cost: $1100.00 Attribute: Sports
+TIRE -> Count: 5 Id: 2 Type: Tire Cost: $1100.00 Attribute: Sports
+TIRE -> Count: 6 Id: 2 Type: Tire Cost: $1100.00 Attribute: Sports
+TIRE -> Count: 7 Id: 2 Type: Tire Cost: $1100.00 Attribute: Sports
+TIRE -> Count: 8 Id: 2 Type: Tire Cost: $1100.00 Attribute: Sports
+TIRE -> Count: 9 Id: 2 Type: Tire Cost: $1100.00 Attribute: Sports
+TIRE -> Count: 0 Id: 3 Type: Tire Cost: $1500.00 Attribute: Premium
+TIRE -> Count: 1 Id: 3 Type: Tire Cost: $1500.00 Attribute: Premium
+TIRE -> Count: 2 Id: 3 Type: Tire Cost: $1500.00 Attribute: Premium
+TIRE -> Count: 3 Id: 3 Type: Tire Cost: $1500.00 Attribute: Premium
+TIRE -> Count: 4 Id: 3 Type: Tire Cost: $1500.00 Attribute: Premium
+TIRE -> Count: 5 Id: 3 Type: Tire Cost: $1500.00 Attribute: Premium
+TIRE -> Count: 6 Id: 3 Type: Tire Cost: $1500.00 Attribute: Premium
+TIRE -> Count: 7 Id: 3 Type: Tire Cost: $1500.00 Attribute: Premium
+TIRE -> Count: 8 Id: 3 Type: Tire Cost: $1500.00 Attribute: Premium
+TIRE -> Count: 9 Id: 3 Type: Tire Cost: $1500.00 Attribute: Premium
+[DrivingAssist -> Count: 0 Id: 1 Type: DrivingAssist Cost: $2500.00 Index: 1 Attribute: CrusieControl, DrivingAssist -> Count: 1 Id: 1 Type: DrivingAssist Cost: $2500.00 Index: 1 Attribute: CrusieControl, DrivingAssist -> Count: 2 Id: 1 Type: DrivingAssist Cost: $2500.00 Index: 1 Attribute: CrusieControl, DrivingAssist -> Count: 3 Id: 1 Type: DrivingAssist Cost: $2500.00 Index: 1 Attribute: CrusieControl, DrivingAssist -> Count: 4 Id: 1 Type: DrivingAssist Cost: $2500.00 Index: 1 Attribute: CrusieControl, DrivingAssist -> Count: 5 Id: 1 Type: DrivingAssist Cost: $2500.00 Index: 1 Attribute: CrusieControl, DrivingAssist -> Count: 6 Id: 1 Type: DrivingAssist Cost: $2500.00 Index: 1 Attribute: CrusieControl, DrivingAssist -> Count: 7 Id: 1 Type: DrivingAssist Cost: $2500.00 Index: 1 Attribute: CrusieControl, DrivingAssist -> Count: 8 Id: 1 Type: DrivingAssist Cost: $2500.00 Index: 1 Attribute: CrusieControl, DrivingAssist -> Count: 9 Id: 1 Type: DrivingAssist Cost: $2500.00 Index: 1 Attribute: CrusieControl]
+next
+[Roof -> Count: 0 Id: 1 Type: Roof Cost: $3000.00 Index: 2 Attribute: MoonRoof, Roof -> Count: 1 Id: 1 Type: Roof Cost: $3000.00 Index: 2 Attribute: MoonRoof, Roof -> Count: 2 Id: 1 Type: Roof Cost: $3000.00 Index: 2 Attribute: MoonRoof, Roof -> Count: 3 Id: 1 Type: Roof Cost: $3000.00 Index: 2 Attribute: MoonRoof, Roof -> Count: 4 Id: 1 Type: Roof Cost: $3000.00 Index: 2 Attribute: MoonRoof, Roof -> Count: 5 Id: 1 Type: Roof Cost: $3000.00 Index: 2 Attribute: MoonRoof, Roof -> Count: 6 Id: 1 Type: Roof Cost: $3000.00 Index: 2 Attribute: MoonRoof, Roof -> Count: 7 Id: 1 Type: Roof Cost: $3000.00 Index: 2 Attribute: MoonRoof, Roof -> Count: 8 Id: 1 Type: Roof Cost: $3000.00 Index: 2 Attribute: MoonRoof, Roof -> Count: 9 Id: 1 Type: Roof Cost: $3000.00 Index: 2 Attribute: MoonRoof]
+next
+[Backup -> Count: 0 Id: 1 Type: Backup Cost: $500.00 Index: 3 Attribute: BackupSensor, Backup -> Count: 1 Id: 1 Type: Backup Cost: $500.00 Index: 3 Attribute: BackupSensor, Backup -> Count: 2 Id: 1 Type: Backup Cost: $500.00 Index: 3 Attribute: BackupSensor, Backup -> Count: 3 Id: 1 Type: Backup Cost: $500.00 Index: 3 Attribute: BackupSensor, Backup -> Count: 4 Id: 1 Type: Backup Cost: $500.00 Index: 3 Attribute: BackupSensor, Backup -> Count: 5 Id: 1 Type: Backup Cost: $500.00 Index: 3 Attribute: BackupSensor, Backup -> Count: 6 Id: 1 Type: Backup Cost: $500.00 Index: 3 Attribute: BackupSensor, Backup -> Count: 7 Id: 1 Type: Backup Cost: $500.00 Index: 3 Attribute: BackupSensor, Backup -> Count: 8 Id: 1 Type: Backup Cost: $500.00 Index: 3 Attribute: BackupSensor, Backup -> Count: 9 Id: 1 Type: Backup Cost: $500.00 Index: 3 Attribute: BackupSensor]
+next
+[Sensor -> Count: 0 Id: 1 Type: Sensor Cost: $1000.00 Index: 4 Attribute: LaneChangeSensor, Sensor -> Count: 1 Id: 1 Type: Sensor Cost: $1000.00 Index: 4 Attribute: LaneChangeSensor, Sensor -> Count: 2 Id: 1 Type: Sensor Cost: $1000.00 Index: 4 Attribute: LaneChangeSensor, Sensor -> Count: 3 Id: 1 Type: Sensor Cost: $1000.00 Index: 4 Attribute: LaneChangeSensor, Sensor -> Count: 4 Id: 1 Type: Sensor Cost: $1000.00 Index: 4 Attribute: LaneChangeSensor, Sensor -> Count: 5 Id: 1 Type: Sensor Cost: $1000.00 Index: 4 Attribute: LaneChangeSensor, Sensor -> Count: 6 Id: 1 Type: Sensor Cost: $1000.00 Index: 4 Attribute: LaneChangeSensor, Sensor -> Count: 7 Id: 1 Type: Sensor Cost: $1000.00 Index: 4 Attribute: LaneChangeSensor, Sensor -> Count: 8 Id: 1 Type: Sensor Cost: $1000.00 Index: 4 Attribute: LaneChangeSensor, Sensor -> Count: 9 Id: 1 Type: Sensor Cost: $1000.00 Index: 4 Attribute: LaneChangeSensor]
+next

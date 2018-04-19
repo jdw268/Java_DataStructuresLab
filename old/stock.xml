@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stock>
+   <Body id="210111">
+      <name>ThatAutoSuperDuperSedanB</name>
+      <Cost>11000.00</Cost>
+      <qty>10</qty>
+   </Body>
+   <Body id="210211">
+      <name>ThatAutoSuperDuperSedanS</name>
+      <Cost>15000.00</Cost>
+      <qty>10</qty>
+   </Body>
+   <Body id="210311">
+      <name>ThatAutoSuperDuperSedanL</name>
+      <Cost>18000.00</Cost>
+      <qty>10</qty>
+   </Body>
+   <Body id="210411">
+      <name>ThatAutoSuperDuperSedanLX</name>
+      <Cost>20000.00</Cost>
+      <qty>10</qty>
+   </Body>
+   <Body id="210511">
+      <name>ThatAutoSuperDuperSedanP</name>
+      <Cost>21000.00</Cost>
+      <qty>10</qty>
+   </Body>
+   <Body id="220111">
+      <name>ThatAutoSuperDuperCoupeB</name>
+      <Cost>20000.00</Cost>
+      <qty>10</qty>
+   </Body>
+   <Body id="220211">
+      <name>ThatAutoSuperDuperCoupeS</name>
+      <Cost>25000.00</Cost>
+      <qty>10</qty>
+   </Body>
+   <Body id="220311">
+      <name>ThatAutoSuperDuperCoupeSS</name>
+      <Cost>28000.00</Cost>
+      <qty>10</qty>
+   </Body>
+   <Body id="220411">
+      <name>ThatAutoSuperDuperCoupeSSL</name>
+      <Cost>30000.00</Cost>
+      <qty>10</qty>
+   </Body>
+   <Body id="220511">
+      <name>ThatAutoSuperDuperCoupeSSP</name>
+      <Cost>32000.00</Cost>
+      <qty>10</qty>
+   </Body>
+   <Body id="230111">
+      <name>ThatAutoSuperDuperMiniVanB</name>
+      <Cost>20000.00</Cost>
+      <qty>10</qty>
+   </Body>
+   <Body id="230211">
+      <name>ThatAutoSuperDuperMiniVanL</name>
+      <Cost>21000.00</Cost>
+      <qty>10</qty>
+   </Body>
+   <Body id="230311">
+      <name>ThatAutoSuperDuperMiniVanXL</name>
+      <Cost>22000.00</Cost>
+      <qty>10</qty>
+   </Body>
+   <Body id="230411">
+      <name>ThatAutoSuperDuperMiniVanP</name>
+      <Cost>23000.00</Cost>
+      <qty>10</qty>
+   </Body>
+   <Body id="230511">
+      <name>ThatAutoSuperDuperMiniVanH</name>
+      <Cost>24000.00</Cost>
+      <qty>10</qty>
+   </Body>
+   <Body id="240111">
+      <name>ThatAutoSuperDuperSUVB</name>
+      <Cost>31000.00</Cost>
+      <qty>10</qty>
+   </Body>
+   <Body id="240211">
+      <name>ThatAutoSuperDuperSUVX</name>
+      <Cost>32000.00</Cost>
+      <qty>10</qty>
+   </Body>
+   <Body id="240311">
+      <name>ThatAutoSuperDuperSUVXL</name>
+      <Cost>33000.00</Cost>
+      <qty>10</qty>
+   </Body>
+   <Body id="240411">
+      <name>ThatAutoSuperDuperSUVSL</name>
+      <Cost>34000.00</Cost>
+      <qty>10</qty>
+   </Body>
+   <Body id="240511">
+      <name>ThatAutoSuperDuperSUVSXL</name>
+      <Cost>35000.00</Cost>
+      <qty>10</qty>
+   </Body>
+   <Body id="250111">
+      <name>ThatAutoSuperDuperTruckB</name>
+      <Cost>22000.00</Cost>
+      <qty>10</qty>
+   </Body>
+   <Body id="250211">
+      <name>ThatAutoSuperDuperTruckX</name>
+      <Cost>24000.00</Cost>
+      <qty>10</qty>
+   </Body>
+   <Body id="250311">
+      <name>ThatAutoSuperDuperTruckXL</name>
+      <Cost>28000.00</Cost>
+      <qty>10</qty>
+   </Body>
+   <Body id="250411">
+      <name>ThatAutoSuperDuperTruckK</name>
+      <Cost>30000.00</Cost>
+      <qty>10</qty>
+   </Body>
+   <Body id="250511">
+      <name>ThatAutoSuperDuperTruckT</name>
+      <Cost>32000.00</Cost>
+      <qty>10</qty>
+   </Body>
+   <Exterior id="1">
+      <color>Blue</color>
+      <Cost>3000.00</Cost>
+      <qty>10</qty>
+   </Exterior>
+   <Exterior id="2">
+      <color>Red</color>
+      <Cost>3000.00</Cost>
+      <qty>10</qty>
+   </Exterior>
+   <Exterior id="3">
+      <color>Green</color>
+      <Cost>3000.00</Cost>
+      <qty>10</qty>
+   </Exterior>
+   <Exterior id="4">
+      <color>White</color>
+      <Cost>3000.00</Cost>
+      <qty>10</qty>
+   </Exterior>
+   <Exterior id="5">
+      <color>Black</color>
+      <Cost>3000.00</Cost>
+      <qty>10</qty>
+   </Exterior>
+   <Exterior id="6">
+      <color>Yellow</color>
+      <Cost>3000.00</Cost>
+      <qty>10</qty>
+   </Exterior>
+   <Exterior id="7">
+      <color>Orange</color>
+      <Cost>3000.00</Cost>
+      <qty>10</qty>
+   </Exterior>
+   <Exterior id="8">
+      <color>Gold</color>
+      <Cost>3000.00</Cost>
+      <qty>10</qty>
+   </Exterior>
+   <Exterior id="9">
+      <color>Purple</color>
+      <Cost>3000.00</Cost>
+      <qty>10</qty>
+   </Exterior>
+   <Interior id="1">
+      <color>Tan</color>
+      <material>Leather</material>
+      <Cost>5000.00</Cost>
+      <qty>10</qty>
+   </Interior>
+   <Interior id="2">
+      <color>Black</color>
+      <material>Leather</material>
+      <Cost>5000.00</Cost>
+      <qty>10</qty>
+   </Interior>
+   <Interior id="3">
+      <color>Red</color>
+      <material>Leather</material>
+      <Cost>5000.00</Cost>
+      <qty>10</qty>
+   </Interior>
+   <Interior id="4">
+      <color>Tan</color>
+      <material>Vinyl</material>
+      <Cost>3000.00</Cost>
+      <qty>10</qty>
+   </Interior>
+   <Interior id="5">
+      <color>Black</color>
+      <material>Vinyl</material>
+      <Cost>3000.00</Cost>
+      <qty>10</qty>
+   </Interior>
+   <Interior id="6">
+      <color>Red</color>
+      <material>Vinyl</material>
+      <Cost>3000.00</Cost>
+      <qty>10</qty>
+   </Interior>
+   <Interior id="7">
+      <color>Tan</color>
+      <material>Cloth</material>
+      <Cost>1000.00</Cost>
+      <qty>10</qty>
+   </Interior>
+   <Interior id="8">
+      <color>Black</color>
+      <material>Cloth</material>
+      <Cost>1000.00</Cost>
+      <qty>10</qty>
+   </Interior>
+   <Interior id="9">
+      <color>Red</color>
+      <material>Cloth</material>
+      <Cost>1000.00</Cost>
+      <qty>10</qty>
+   </Interior>
+   <Powertrain id="1">
+      <auto>True</auto>
+      <Cost>7500.00</Cost>
+      <qty>10</qty>
+   </Powertrain>
+   <Powertrain id="2">
+      <auto>False</auto>
+      <Cost>5000.00</Cost>
+      <qty>10</qty>
+   </Powertrain>
+   <Seat id="1">
+      <sType>Multi-Point</sType>
+      <Cost>800.00</Cost>
+      <qty>10</qty>
+   </Seat>
+   <Seat id="2">
+      <sType>Heated</sType>
+      <Cost>1200.00</Cost>
+      <qty>10</qty>
+   </Seat>
+   <Seat id="3">
+      <sType>Air</sType>
+      <Cost>2000.00</Cost>
+      <qty>10</qty>
+   </Seat>
+   <Radio id="1">
+      <console>AM/FM</console>
+      <Cost>500.00</Cost>
+      <qty>10</qty>
+   </Radio>
+   <Radio id="2">
+      <console>CD</console>
+      <Cost>750.00</Cost>
+      <qty>10</qty>
+   </Radio>
+   <Radio id="3">
+      <console>MP3</console>
+      <Cost>850.00</Cost>
+      <qty>10</qty>
+   </Radio>
+   <Radio id="4">
+      <console>Sirius/XM</console>
+      <Cost>900.00</Cost>
+      <qty>10</qty>
+   </Radio>
+   <Radio id="5">
+      <console>NAV</console>
+      <Cost>3000.00</Cost>
+      <qty>10</qty>
+   </Radio>
+   <Tire id="1">
+      <tType>All-Weather</tType>
+      <Cost>500.00</Cost>
+      <qty>10</qty>
+   </Tire>
+   <Tire id="2">
+      <tType>Sports</tType>
+      <Cost>1100.00</Cost>
+      <qty>10</qty>
+   </Tire>
+   <Tire id="3">
+      <tType>Premium</tType>
+      <Cost>1500.00</Cost>
+      <qty>10</qty>
+   </Tire>
+   <Rim id="1">
+      <size>18</size>
+      <Cost>1100.00</Cost>
+      <qty>10</qty>
+   </Rim>
+   <Rim id="2">
+      <size>19</size>
+      <Cost>1200.00</Cost>
+      <qty>10</qty>
+   </Rim>
+   <Rim id="3">
+      <size>20</size>
+      <Cost>1300.00</Cost>
+      <qty>10</qty>
+   </Rim>
+   <Rim id="4">
+      <size>22</size>
+      <Cost>1400.00</Cost>
+      <qty>10</qty>
+   </Rim>
+   <Rim id="5">
+      <size>26</size>
+      <Cost>2000.00</Cost>
+      <qty>10</qty>
+   </Rim>
+   <Misc index="1">
+      <DrivingAssist id="1">
+         <dType>CruiseControl</dType>
+         <Cost>2500.00</Cost>
+         <qty>10</qty>
+      </DrivingAssist>
+      <DrivingAssist id="2">
+         <dType>AdaptiveCruiseControl</dType>
+         <Cost>5000.00</Cost>
+         <qty>10</qty>
+      </DrivingAssist>
+      <DrivingAssist id="3">
+         <dType>CruiseControl360</dType>
+         <Cost>10000.00</Cost>
+         <qty>10</qty>
+      </DrivingAssist>
+   </Misc>
+   <Misc index="2">
+      <Roof id="1">
+         <rType>MoonRoof</rType>
+         <Cost>3000.00</Cost>
+         <qty>10</qty>
+      </Roof>
+      <Roof id="2">
+         <rType>SunRoof</rType>
+         <Cost>5000.00</Cost>
+         <qty>10</qty>
+      </Roof>
+      <Roof id="3">
+         <rType>Panaramic</rType>
+         <Cost>8000.00</Cost>
+         <qty>10</qty>
+      </Roof>
+   </Misc>
+   <Misc index="3">
+      <Backup id="1">
+         <bType>BackupSensor</bType>
+         <Cost>500.00</Cost>
+         <qty>10</qty>
+      </Backup>
+      <Backup id="2">
+         <bType>BackupCamera</bType>
+         <Cost>2500.00</Cost>
+         <qty>10</qty>
+      </Backup>
+      <Backup id="3">
+         <bType>BackupCameraDashCamera</bType>
+         <Cost>3000.00</Cost>
+         <qty>10</qty>
+      </Backup>
+   </Misc>
+   <Misc index="4">
+      <Sensor id="1">
+         <sType>LaneChangeSensor</sType>
+         <Cost>1000.00</Cost>
+         <qty>10</qty>
+      </Sensor>
+      <Sensor id="2">
+         <sType>BlindSpotSensor</sType>
+         <Cost>2000.00</Cost>
+         <qty>10</qty>
+      </Sensor>
+      <Sensor id="3">
+         <sType>BlindSpotSensorAllStopSensor</sType>
+         <Cost>5000.00</Cost>
+         <qty>10</qty>
+      </Sensor>
+   </Misc>
+</stock>
